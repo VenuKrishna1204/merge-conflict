@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 TIGER
 LION
 ELEPHANT
 ZEBRA
+=======
+AI
+ML
+CSE
+NLP
+>>>>>>> fb
